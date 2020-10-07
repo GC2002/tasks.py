@@ -102,3 +102,7 @@ def swap(a:int,b:int):
     Swap two numbers
     """
 
+str=input("Enter the string:" )
+
+print("Converted String:") 
+print(str.upper())
